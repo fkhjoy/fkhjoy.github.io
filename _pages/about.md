@@ -15,4 +15,4 @@ After completing my degree, the COVID-19 pandemic shifted many directions, and w
 
 I am excited to continue my journey by blending my skills in software engineering, HCI, and AI, contributing to research that bridges the gap between human intuition and machine intelligence.
 
-```Don't just aspire to make a living. Aspire to make a difference```
+```Don't just aspire to make a living. Aspire to make a difference - Denzel Washington```

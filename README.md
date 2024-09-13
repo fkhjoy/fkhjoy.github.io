@@ -1,4 +1,4 @@
-# Academic Pages
+# Personal site
 
 ![pages-build-deployment](https://github.com/fkhjoy/fkhjoy.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
