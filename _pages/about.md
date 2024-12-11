@@ -11,7 +11,7 @@ I am Foysal, a PhD candidate with a passion for exploring the intersection of So
 
 I studied Robotics and Mechatronics Engineering at the University of Dhaka, where I actively participated in tech events and competitions, gaining a solid foundation in both hardware and software. My final year thesis introduced me to Natural Language Processing (NLP) and sparked my interest in how technology can understand and respond to human instructions.
 
-After completing my degree, the COVID-19 pandemic shifted many directions, and within a year, I started my career as an IoT Software Engineer. It was during this time that I discovered my passion for software development, eventually transitioning fully into the field. Now, I work as a Software Engineer, focusing on building scalable backend systems and leveraging cloud technologies.
+After completing my degree I started my career as Computer Vision Engineer(intern), then COVID-19 pandemic shifted many directions, and within a year, I started my career as an IoT Software Engineer. It was during this time that I discovered my passion for software development, eventually transitioning fully into the field. Now, I work as a Software Engineer, focusing on building scalable backend systems and leveraging cloud technologies.
 
 I am excited to continue my journey by blending my skills in software engineering, HCI, and AI, contributing to research that bridges the gap between human intuition and machine intelligence.
 
