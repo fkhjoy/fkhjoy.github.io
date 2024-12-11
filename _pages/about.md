@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Foysal, a PhD candidate with a passion for exploring the intersection of Software Engineering and Human-Computer Interaction (HCI), with a blend of AI technologies. My research focuses on how to create more intuitive and intelligent systems that enhance the way humans interact with machines.
+I am Foysal, a prospective PhD student with a passion for exploring the intersection of Software Engineering and Human-Computer Interaction (HCI), with a blend of AI technologies. My research focuses on how to create more intuitive and intelligent systems that enhance the way humans interact with machines.
 
 I studied Robotics and Mechatronics Engineering at the University of Dhaka, where I actively participated in tech events and competitions, gaining a solid foundation in both hardware and software. My final year thesis introduced me to Natural Language Processing (NLP) and sparked my interest in how technology can understand and respond to human instructions.
 
